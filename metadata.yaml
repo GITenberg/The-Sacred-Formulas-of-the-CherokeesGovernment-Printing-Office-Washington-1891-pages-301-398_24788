@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26733'
     url: http://www.gutenberg.org/2009/agents/26733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24788#The-Sacred-Formulas-of-the-CherokeesGovernment-Printing-Office-Washington-1891-pages-301-398
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2008-03-09'
 gutenberg_type: Text
