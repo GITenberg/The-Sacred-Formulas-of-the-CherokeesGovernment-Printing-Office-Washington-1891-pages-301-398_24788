@@ -1,0 +1,33 @@
+_repo: The-Sacred-Formulas-of-the-CherokeesGovernment-Printing-Office-Washington-1891-pages-301-398_24788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mooney, James
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '26733'
+    url: http://www.gutenberg.org/2009/agents/26733
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2008-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cherokee language -- Texts'
+- !lcc 'RV'
+- !lcsh 'Indians of North America -- Medicine'
+- !lcc 'E011'
+- !lcc 'PM'
+- !lcsh 'Cherokee Indians -- Religion'
+title: "The Sacred Formulas of the Cherokees\r\nSeventh Annual Report of the Bureau\
+  \ of Ethnology to the Secretary of the Smithsonian Institution, 1885-1886, Government\
+  \ Printing Office, Washington, 1891, pages 301-398"
+url: http://www.gutenberg.org/ebooks/24788
